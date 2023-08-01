@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Baptiste Lesquoy
+N;CHARSET=UTF-8:Lesquoy;Baptiste;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:baptiste.lesquoy@ird.fr
+TEL;TYPE=WORK,VOICE:+33650210004
+LABEL;CHARSET=UTF-8;TYPE=WORK:Thuy Loi University
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;Hanoi;;;Vietnam
+TITLE;CHARSET=UTF-8:Software engineer
+ORG;CHARSET=UTF-8:IRD
+X-SOCIALPROFILE;TYPE=linkedin:www.linkedin.com/in/baptiste-lesquoy-9270b0217
+X-SOCIALPROFILE;TYPE=GitHub:https://github.com/lesquoyb
+REV:2023-07-31T03:00:18.916Z
+END:VCARD

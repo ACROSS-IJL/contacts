@@ -1,5 +1,5 @@
-# contacts
-Holds the contacts of the people in the lab.
+# Contacts vCards and QR Codes
+Holds the contacts of the people in the lab in the form of files that can be directly accessed from outside the repository. 
 
 These files can be accessed directly at: 
 

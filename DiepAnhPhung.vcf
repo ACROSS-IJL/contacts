@@ -1,34 +1,12 @@
 BEGIN:VCARD
-VERSION:2.1
-N;LANGUAGE=en-us:Anh;PHUNG;Diep
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 13.4//EN
+N:Anh;PHUNG;Diep;;
 FN:PHUNG Diep Anh
-ORG:ACROSS International Joint Laboratory
+ORG:ACROSS International Joint Laboratory;
 TITLE:Project Assistant
-TEL;CELL;VOICE:+84 (0) 983362787
-ADR;WORK;PREF:;;;175 Tay Son Street, Dong Da District, Hanoi;Vietnam;;United States of America
-LABEL;WORK;PREF:175 Tay Son Street, Dong Da District, Hanoi, Vietnam
-X-MS-OL-DEFAULT-POSTAL-ADDRESS:2
-URL;WORK:www.across-lab.org
-EMAIL;PREF;INTERNET:diepanh.phung@ird.fr
-X-MS-CARDPICTURE;TYPE=JPEG;ENCODING=BASE64:
- /9j/4AAQSkZJRgABAQEAeAB4AAD/2wBDAAcFBQYFBAcGBQYIBwcIChELCgkJChUPEAwRGBUa
- GRgVGBcbHichGx0lHRcYIi4iJSgpKywrGiAvMy8qMicqKyr/2wBDAQcICAoJChQLCxQqHBgc
- KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKir/wAAR
- CACEAB8DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
- AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
- FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
- h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
- 5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
- AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
- NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
- hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
- 5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD30yAsQOO1DShBjOTUQ9aa3vQBIrmRuenp
- STtgBaWJcAmmSfNMR6UAKewpppT1pQMmgCVflTmoo/vljUkh2x1EOIs+tAAafEMtTD2qaEYF
- ADLhuQKZIMKFpW+eamSnMlADv4hUw+WPPtUajP8AKpHG9dq9PWgCKPqTTdhds9BUhCovc1E7
- s7dcCgCwuD91cVHKxLY7VLHwKh+++fxoAWQgIBURHpUsm3PJzjsKjL46DFAFl/kT3xUaksT2
- 7YFPmPQUxeFz+NAEbnLE4ph606mnrQBPK2XPtQ/CYpoG5xSyUAR009adTT1oAsKF5K0jpk8G
- hfuj61GfWgA2H2NNKkdRTtxHejzPUD8KAJP+WX/AajPSiigBKaetFFAH/9k=
-
-X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="fit" area="16" use="cardpicture"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="org" align="left" dir="ltr" style="b" color="ff8000" size="8"/><fld xmlns="" prop="title" align="left" dir="ltr" style="bi" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="telcell" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262">Mobile</label></fld><fld xmlns="" prop="email" align="left" dir="ltr" color="d48d2a" size="8"/><fld xmlns="" prop="addrwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="webwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
-REV:20230728T063020Z
+EMAIL;type=INTERNET;type=pref:diepanh.phung@ird.fr
+TEL;type=CELL;type=VOICE;type=pref:+84 (0) 983362787
+ADR;type=WORK;type=pref:;;175 Tay Son Street;Hanoi;Vietnam;Dong Da District;Vietnam
+URL;type=WORK;type=pref:www.across-lab.org
 END:VCARD

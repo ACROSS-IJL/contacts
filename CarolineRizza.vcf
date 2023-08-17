@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Caroline Rizza
+N;CHARSET=UTF-8:Rizza;Caroline;;Dr.;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:caroline.rizza@telecom-paris.fr
+TITLE;CHARSET=UTF-8:Associate Professor
+ORG;CHARSET=UTF-8:I3-Telecom Paris (UMR9217)
+URL;type=WORK;CHARSET=UTF-8:https://www.telecom-paris.fr/caroline-rizza
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/caroline-rizza/
+REV:2023-08-17T04:04:44.601Z
+END:VCARD

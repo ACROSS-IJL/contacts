@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Benoit Gaudou
+N;CHARSET=UTF-8:Gaudou;Benoit;;;
+NICKNAME;CHARSET=UTF-8:Benoit
+GENDER:M
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:benoit.gaudou@gmail.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:benoit.gaudou@ut-capitole.fr
+LABEL;CHARSET=UTF-8;TYPE=WORK:Université Toulouse Capitole
+ADR;CHARSET=UTF-8;TYPE=WORK:;;2 rue du Doyen Gabriel-Marty;Toulouse;France;31042;France
+TITLE;CHARSET=UTF-8:Professor
+ORG;CHARSET=UTF-8:Université Toulouse Capitole
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/benoit-gaudou-a6806a20/
+REV:2023-08-30T10:16:34.768Z
+END:VCARD

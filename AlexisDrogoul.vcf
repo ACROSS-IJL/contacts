@@ -15,8 +15,6 @@ item3.TEL;type=pref:+84 94 4455180
 item3.X-ABLabel:Viêt Nam
 item4.TEL:+33 6 08 69 88 45
 item4.X-ABLabel:France
-item5.TEL:+84 91 5088155
-item5.X-ABLabel:Ancien Portable
 ADR;type=HOME;type=pref:;;27 Nam Trang\nTruc Bach;Hanoi;Ba Dinh;;Vietnam
 item6.URL;type=pref:https://www.researchgate.net/profile/Alexis_Drogoul
 item6.X-ABLabel:None
@@ -10865,3 +10863,4 @@ PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  aRyE8Cr0YkA4FcF0VdG19pXGN36VQmZSc7v0rGe5mU81Xa6lcfKc0XQXRdlmV+lZjoSeKRX2H5
  z1q2mJB8nNF0O5FErA81d+XHNRorucAfrVtISRzRdBdH//2Q==
 END:VCARD
+

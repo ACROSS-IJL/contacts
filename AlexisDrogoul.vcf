@@ -4,7 +4,7 @@ PRODID:-//Apple Inc.//macOS 13.4//EN
 N:Drogoul;Alexis;;;
 FN:Alexis Drogoul
 ORG:IRD;
-TITLE:Representative in Vietnam
+TITLE:Director
 item1.EMAIL;type=INTERNET;type=pref:alexis.drogoul@gmail.com
 item1.X-ABLabel:Personnel
 EMAIL;type=INTERNET;type=HOME:drogoul@me.com
@@ -10863,4 +10863,5 @@ PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  aRyE8Cr0YkA4FcF0VdG19pXGN36VQmZSc7v0rGe5mU81Xa6lcfKc0XQXRdlmV+lZjoSeKRX2H5
  z1q2mJB8nNF0O5FErA81d+XHNRorucAfrVtISRzRdBdH//2Q==
 END:VCARD
+
 
